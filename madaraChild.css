@@ -1,0 +1,28 @@
+body{
+	background-image: url("https://otakukart.com/wp-content/uploads/2018/04/Madara-Uchiha-Wallpaper-Download-HD.png");
+	background-attachment: fixed;
+	font-size: 25px;
+	font-family: 'Chakra Petch', sans-serif;
+	color: red;
+	opacity: 0.8;
+}
+main{
+	border: solid red 10px;
+	border-radius: 15px;
+	width: 800px;
+	text-align: center;
+	margin: 0 auto;
+}
+img{
+	border: solid 7px black;
+	border-radius: 10px;
+}
+li{
+	display: inline;
+}
+ul{
+	text-align: center;
+}
+#nav a:hover{
+		color:red;
+		opacity: 1;

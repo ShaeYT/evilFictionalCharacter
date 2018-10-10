@@ -1,0 +1,37 @@
+body{
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 25px;
+	display: table;
+  	width: 100%;
+  	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1.0)), url('https://img00.deviantart.net/8931/i/2014/244/6/a/madara_dark_3_by_dinocojv-d7xl0i8.jpg');
+  	background-position: center top;
+  	background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  	height: 350px;
+  	color: white;
+}
+main{
+	border: solid 15px grey;
+	border-radius: 10px;
+	color: purple;
+	width: 650px;
+	text-align: center;
+	margin: 0 auto;
+}
+img{
+	border: solid 3px purple;
+	border-radius: 10px;
+}
+li{
+	display: inline;
+}
+ul{
+	text-align: center;
+}
+#nav a:hover{
+		color:purple;
+		opacity: 1;
+}
+
+

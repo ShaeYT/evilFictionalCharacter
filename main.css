@@ -1,0 +1,35 @@
+body{
+background-image: url("https://i1.wp.com/ramenswag.com/wp-content/uploads/2016/09/madara_uchiha_by_speedartfreak-d8u2e6c.png?fit=1024%2C576&ssl=1");
+background-size: 100%;
+color: red;
+font-family: 'Chakra Petch', sans-serif;
+font-size: 25px;
+}
+img{
+	-webkit-filter: brightness(200%); 
+    filter: brightness(200%);
+    border: solid 7px red;
+    border-radius: 25px;
+}
+.paragraph{
+	border: solid  10px red;
+	border-radius: 15px;
+}
+main{
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+}
+.links{
+	color: red;
+}
+li{
+	display: inline;
+}
+ul{
+	text-align: center;
+}
+#nav a:hover{
+		color:red;
+		opacity: 1;
+}
